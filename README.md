@@ -19,11 +19,9 @@ Product Catalog
 Shopping Cart
 - https://github.com/Leon3cs/shoppingcart
 
+## Config Service
+- https://github.com/Leon3cs/configserver
 
 ## Service discovery
 
 - https://github.com/Leon3cs/servicediscovery
-
-## Gateway
-
-- https://github.com/Leon3cs/gateway
